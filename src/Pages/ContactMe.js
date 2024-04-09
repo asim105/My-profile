@@ -27,19 +27,19 @@ const ContactMe = () => {
                         <h3 className="text-md text-center text-primary underline underline-offset-2 py-3">Contact Info</h3>
                         <div className='flex items-center justify-evenly my-8'>
                             <div onClick={() => {
-                                window.open('https://github.com/arburhan');
+                                window.open('https://www.instagram.com/_pawan_bagda?igsh=MXdhazVzNXFyMmdqOQ==');
                             }} className="flex flex-col items-center hover:underline  cursor-pointer bg-white rounded-2xl py-4 px-5">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z" /></svg>
-                                <p className='underline-offset-2 text-black mt-1'>GitHub</p>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 448 512"><path d="m224 202.66a53.34 53.34 0 1 0 53.36 53.34 53.38 53.38 0 0 0 -53.36-53.34zm124.71-41a54 54 0 0 0 -30.41-30.41c-21-8.29-71-6.43-94.3-6.43s-73.25-1.93-94.31 6.43a54 54 0 0 0 -30.41 30.41c-8.28 21-6.43 71.05-6.43 94.33s-1.85 73.27 6.47 94.34a54 54 0 0 0 30.41 30.41c21 8.29 71 6.43 94.31 6.43s73.24 1.93 94.3-6.43a54 54 0 0 0 30.41-30.41c8.35-21 6.43-71.05 6.43-94.33s1.92-73.26-6.43-94.33zm-124.71 176.34a82 82 0 1 1 82-82 81.9 81.9 0 0 1 -82 82zm85.38-148.3a19.14 19.14 0 1 1 19.13-19.14 19.1 19.1 0 0 1 -19.09 19.18zm90.62-157.7h-352a48 48 0 0 0 -48 48v352a48 48 0 0 0 48 48h352a48 48 0 0 0 48-48v-352a48 48 0 0 0 -48-48zm-17.12 290c-1.29 25.63-7.14 48.34-25.85 67s-41.4 24.63-67 25.85c-26.41 1.49-105.59 1.49-132 0-25.63-1.29-48.26-7.15-67-25.85s-24.63-41.42-25.85-67c-1.49-26.42-1.49-105.61 0-132 1.29-25.63 7.07-48.34 25.85-67s41.47-24.56 67-25.78c26.41-1.49 105.59-1.49 132 0 25.63 1.29 48.33 7.15 67 25.85s24.63 41.42 25.85 67.05c1.49 26.32 1.49 105.44 0 131.88z"/></svg>
+                                <p className='underline-offset-2 text-black mt-1'>Instagram</p>
                             </div>
                             <div onClick={() => {
-                                window.open('https://www.linkedin.com/in/arburhan/')
+                                window.open('https://www.linkedin.com/in/pawan-sharma-14b50125b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app')
                             }} className="flex flex-col items-center hover:underline  cursor-pointer bg-white rounded-2xl p-4 ">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" /></svg>
                                 <p className='underline-offset-2 text-black mt-1'>LinkedIn</p>
                             </div>
                             <div onClick={() => {
-                                window.open('https://www.facebook.com/arBurhann/')
+                                window.open('https://www.facebook.com/profile.php?id=100066260770940&mibextid=ZbWKwL')
                             }} className="flex flex-col items-center hover:underline  cursor-pointer bg-white rounded-2xl py-4 px-3">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-3 7h-1.924c-.615 0-1.076.252-1.076.889v1.111h3l-.238 3h-2.762v8h-3v-8h-2v-3h2v-1.923c0-2.022 1.064-3.077 3.461-3.077h2.539v3z" /></svg>
                                 <p className='underline-offset-2 text-black mt-1'>Facebook</p>
@@ -66,14 +66,14 @@ const ContactMe = () => {
                         </div>
                         <div>
                             <h2 className="text-2xl">Address</h2>
-                            
+
                             <a href='https://maps.app.goo.gl/NWJWvPcFn1Fn5w6E6' target='_blank'>
-                            <figure style={{ justifyContent: 'flex-start' }} className='flex items-center' >
-                                <svg xmlns="http://www.w3.org/2000/svg" className="h-18 w-12" viewBox="0 0 20 20" fill="currentColor">
-                                    <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
-                                </svg>
-                                <address>Near Homeopathy University, Sanagner, Jaipur, Rajshahi </address>
-                            </figure>
+                                <figure style={{ justifyContent: 'flex-start' }} className='flex items-center' >
+                                    <svg xmlns="http://www.w3.org/2000/svg" className="h-18 w-12" viewBox="0 0 20 20" fill="currentColor">
+                                        <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
+                                    </svg>
+                                    <address>Near Homeopathy University, Sanagner, Jaipur, Rajshahi </address>
+                                </figure>
                             </a>
                         </div>
                     </div>

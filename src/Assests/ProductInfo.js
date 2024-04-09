@@ -14,7 +14,7 @@ const ProductInfo = [
     {
         _id: 2,
         name: "KASN Hotel",
-        image: "https://kasnhotels.com/assets/hotel%20chandela/hotel-chandela.jpg",
+        image: "https://kasnhotels.com/assets/Tgi%20Insignia/tgi-insignia.jpg",
         description: "Look no further than KASN HOTELS! We're your ultimate destination for an unforgettable staycation. Nestled in the heart of Nature and City, KASN HOTELS offers a...",
         "stackCategory": "Design & Fronted",
         liveLink: "https://kasnhotels.com/",
