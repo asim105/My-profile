@@ -101,3 +101,10 @@ body{
 .menu :where(li:not(.menu-title):not(:empty)) > :where(:not(ul).active), .menu :where(li:not(.menu-title):not(:empty)) > :where(*:not(ul):active){
  background: #FD470E; 
 }
+
+
+@media only screen and (max-width: 1180px)  {
+  body{
+    padding: 20px;
+  } 
+}
